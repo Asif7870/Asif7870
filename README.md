@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Pipeline
 - 📫 How to reach me asif.aimer@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Nothing happens wihtout a reason.
+- ⚡ Fun fact: Nothing happens without a reason.
 
 <!---
 Asif7870/Asif7870 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
